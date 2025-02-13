@@ -1,1 +1,1 @@
-# DS-project
+# Loan Eligibility Project
